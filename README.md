@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
