@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
