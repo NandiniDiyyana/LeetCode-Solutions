@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0633-sum-of-square-numbers](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0908-smallest-range-i](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0867-transpose-matrix](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
