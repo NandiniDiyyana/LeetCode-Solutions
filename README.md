@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0867-transpose-matrix](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +67,20 @@
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NandiniDiyyana/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
